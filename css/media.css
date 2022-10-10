@@ -1,0 +1,304 @@
+@media(min-width:1200px) and (max-width:1399px){
+    /* ========votice part start========== */
+    .notic-list li {
+        height: 47px;
+        line-height: 47px;
+    }
+    .notic-list li i {
+        height: 46px;
+        width: 46px;
+        line-height: 46px;
+    }
+    /* ========votice part end============ */
+    /* ========event part start========== */
+    .ev2 {
+        margin-top: 76px;
+    }
+    .ev1 {
+        margin-top: 69px;
+    }
+    /* ========event part end============ */
+}
+@media(min-width:992px) and (max-width:1199px){
+    /* ========navber part start========== */
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 13px;
+    }
+    /* ========navber part end============ */
+    /* ========banner part start========== */
+    .ban-text h2 {
+        font-size: 34px;
+    }
+    .ban-text h1 {
+        font-size: 41px;
+    }
+    /* ========banner part end============ */
+    /* ========service part start========== */
+    .service-item p {
+        padding: 0px 0px;
+    }
+    /* ========service part end============ */
+    /* ========notice part start========== */
+    .notic-list li {
+        height: 40px;
+        line-height: 40px;
+        font-size: 15px;
+    }
+    .notic-list li i {
+        height: 39px;
+        width: 39px;
+        line-height: 39px;
+    }
+    /* ========notice part end============ */
+    /* ========event part start========== */
+    .ev1 {
+        margin-top: 0px;
+    }
+    .ev2 {
+        margin-top: 46px;
+    }
+    .evenr-img img {
+        margin-bottom: 15px;
+    }
+    .event-text p {
+        margin-bottom: 20px;
+    }
+    .event-text {
+        margin-top: 25px;
+    }
+
+    /* ========event part end============ */
+}
+@media(min-width:768px) and (max-width:991px){
+    /* =======navber part start========== */
+    .logo a span {
+        font-size: 15px;
+    }
+    /* =======navber part end============ */
+    /* =======banner part start========== */
+    .banner-img img{
+        height: 295px;
+    }
+    /* =======banner part end============ */
+    /* =======notic part start========== */
+    .notic-list li {
+        line-height: 16px;
+        font-size: 14px;
+        padding-top: 11px;
+        padding-right: 45px;
+    }
+    .notes_item img{
+        margin-top: 92px;
+    }
+    /* =======notic part end============ */
+    /* =======event part start========== */
+    .ev1 {
+        margin-top: 40px;
+    }
+    .ev2 {
+        margin-top: 46px;
+    }
+    /* =======event part end============ */
+}
+@media(min-width:576px) and (max-width:767px){
+    /* =========Navver top part start========= */
+    .top-head{
+        display: none;
+    }
+    /* =========Navver top part end========= */
+    /* =========Navver part start========= */
+    .logo a span {
+        font-size: 19px;
+    }
+    .nav-number h3 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    /* =========Navver part end=========== */
+    /* =========banner part start========= */
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 139px;
+    }
+    #banner img{
+        height: 230px;
+    }
+    .ban-text h2 {
+        font-size: 30px;
+    }
+    .ban-text h1 {
+        font-size: 40px;
+    }
+    .banner-img {
+        position: absolute;
+        bottom: -138px;
+        right: 0px;
+    }
+    /* =========banner part end=========== */
+    /* =========service part start========= */
+    #service {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .service-item{
+        margin-bottom: 24px;
+    }
+    /* =========service part end=========== */
+    /* =========notic part start========= */
+    .notes_item{
+        margin-bottom: 24px;
+    }
+    /* =========notic part end=========== */
+    /* =========event part start========= */
+    #event {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .event-item{
+        margin-bottom: 24px;
+    }
+    .event-text p {
+        margin-bottom: 10px;
+    }
+    .event-text {
+        margin-top: 10px;
+    }
+    .ev1 {
+        margin-top: 10px;
+    }
+    .event-list {
+        margin-top: 20px;
+    }
+    .ev2 {
+        margin-top: 15px;
+    }
+    .evenr-img:nth-child(1) {
+        margin-bottom: 0px;
+    }
+    /* =========event part end=========== */
+    /* =========doctor part start========= */
+    .doctor-text p {
+        margin-bottom: 5px;
+    }
+    #doctor {
+        margin-bottom: 50px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* =========doctor part end=========== */
+}
+@media(max-width:575.99px) {
+
+    /* ========navver part start=========== */
+    .top-head{
+        display: none;
+    }
+    /* ========navver part end============= */
+    /* ========banner part start=========== */
+    #banner {
+        padding-top: 50px;
+        padding-bottom: 200px;
+    }
+    #banner img{
+        height: 200px;
+    }
+    .ban-text h2 {
+        font-size: 30px;
+    }
+    .ban-text h1 {
+        font-size: 40px;
+    }
+    .ban-text p {
+        margin-top: 5px;
+    }
+    .banner-img {
+        bottom: -199px;
+    }
+    .ban-text button {
+        margin-top: 0px;
+    }
+    /* ========banner part end============= */
+    /* ========service part start=========== */
+    #service {
+        padding-top: 50px;
+        padding-bottom: 30px;
+    }
+    .service-item{
+        margin-bottom: 30px;
+    }
+    .service-item h4 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+    /* ========service part end============= */
+    /* ========notic part start=========== */
+    .notes_item h3 {
+        font-size: 25px;
+    }
+    .notic-list li {
+        height: 55px;
+        line-height: 16px;
+        font-size: 13px;
+        padding-left: 26px;
+        padding-right: 58px;
+        padding-top: 13px;
+    }
+    .notes_item{
+        margin-top: 40px;
+    }
+    /* ========notic part end============= */
+    /* ========event part start=========== */
+    #event {
+        padding-top: 50px;
+        padding-bottom: 0px;
+    }
+    .event-item{
+        margin-bottom: 40px;
+    }
+    .event-item h3 {
+        font-size: 25px;
+    }
+    .event-text p {
+        margin-bottom: 10px;
+    }
+    .event-text {
+        margin-top: 10px;
+    }
+    .ev1 {
+        margin-top: 20px;
+    }
+    .event-list {
+        margin-top: 25px;
+    }
+    .ev2 {
+        margin-top: 20px;
+    }
+    /* ========event part end============= */
+    /* ========doctor part start=========== */
+    #doctor {
+        margin-bottom: 40px;
+    }
+    #doctor h3 {
+        font-size: 25px;
+    }
+    .doctor-text h4 {
+        font-size: 18px;
+    }
+    .doctor-text p {
+        margin-bottom: 5px;
+    }
+    .doctor-item {
+        margin-top: 24px;
+    }
+    /* ========doctor part end============= */
+    /* ========coppy part start=========== */
+    .coppy_text p {
+        padding: 0 50px;
+        line-height: 18px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* ========coppy part end============= */
+}
